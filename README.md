@@ -5,9 +5,9 @@ Complete IPFinder in java using JFrame
 [<img align="left" alt="Intellij" width="26px" src="./Img/intellij.png">][intellij]
 [<img align="left" alt="Java" width="28px" src="./Img/java.png">][java]
 <br/><br/>
-![GitHub last commit](https://img.shields.io/github/last-commit/AbhilashTUofficial/Calculator-Java?color=blue&label=Last%20Commit%3A&style=for-the-badge)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/AbhilashTUofficial/Calculator-Java?label=Repo%20Size%3A&style=for-the-badge)
-|Calculator-Java| Calculator-Java Help |
+![GitHub last commit](https://img.shields.io/github/last-commit/AbhilashTUofficial/IPFinder-Java?color=blue&label=Last%20Commit%3A&style=for-the-badge)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/AbhilashTUofficial/IPFinder-Java?label=Repo%20Size%3A&style=for-the-badge)
+|IPFinder-Java| IPFinder-Java hack |
 |------|-------|
 |<img src="./Img/IPFinder-Java1.png" width="200">|<img src="./Img/IPFinder-Java2.png" width="200">|
 
@@ -15,12 +15,12 @@ Complete IPFinder in java using JFrame
     |-- IPFinder-Java
          |-- out
          |    |-- production
-         |       |-- Calculator-java
+         |       |-- IPFinder-Java
          |           |-- Main.class
          |
          |-- src
          |    |-- com
-         |       |-- calculator
+         |       |-- IPFinder-Java
          |           |-- Main.java
          |
          |-- Img
